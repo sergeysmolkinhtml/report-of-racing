@@ -1,0 +1,20 @@
+DRR Daniel Ricciardo          Red Bull Racing-TAG Heuer
+SVF Sebastian Vettel          Ferrari
+LHM Lewis Hamilton            Mercedes
+KRF Kimi Raikkonen            Ferrari
+VBM Valtteri Bottas           Mercedes
+EOF Esteban Ocon              Force India-Mercedes
+FAM Fernando Alonso           McLaren-Renault
+CSR Carlos Sainz Jr.          Renault
+SPF Sergio Perez              Force India-Mercedes
+PGS Pierre Gasly              SCUDERIA TORO ROSSO HONDA
+NHR Nico Hulkenberg           Renault
+SVM Stoffel Vandoorne         McLaren-Renault
+SSW Sergey Sirotkin           Williams-Mercedes
+CLS Charles Leclerc           Sauber-Ferrari
+RGH Romain Grosjean           Haas-Ferrari
+BHS Brendon Hartley           SCUDERIA TORO ROSSO HONDA
+MES Marcus Ericsson           Sauber-Ferrari
+LSW Lance Stroll              Williams-Mercedes
+KMH Kevin Magnussen           Haas-Ferrari
+
